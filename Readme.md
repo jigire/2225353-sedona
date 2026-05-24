@@ -2,6 +2,7 @@
 
 * Студент: [Дмитрий Ткаченко](https://htmlacademy.ru/profile/id2225353).
 * Наставник: [Ирина Антипина](https://htmlacademy.ru/profile/id2108789).
+* Сайт: https://jigire.github.io/2225353-sedona/
 
 ---
 
