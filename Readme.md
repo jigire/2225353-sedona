@@ -1,6 +1,6 @@
 # Личный проект «Седона»
 
-* Студент: [Дмитрий Ткаченко](https://up.htmlacademy.ru/htmlcss-individual/3/user/2225353).
+* Студент: [Дмитрий Ткаченко](https://htmlacademy.ru/profile/id2225353).
 * Наставник: `Неизвестно`.
 
 ---
